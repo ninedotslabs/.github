@@ -1,1 +1,1 @@
-![banner ninedotslabs](./banner.jpg)
+![banner ninedotslabs](https://github.com/ninedotslabs/.github/blob/main/profile/banner.jpg)
